@@ -1,4 +1,4 @@
-# Hi, I'm Nana 👑
+# Hi, I'm Nancy!
 
 Level 5 Computer Science student at UA92, Manchester
 
@@ -17,7 +17,7 @@ Features: live price calculator, product configuration flow, and order submissio
 
 ## Skills
 
-SQL · Python · TypeScript · Next.js · TailwindCSS · Supabase · Power Automate · SharePoint
+SQL · Python · Next.js · TailwindCSS · Supabase · Power Automate · SharePoint
 
 ## Get in Touch
 
