@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Nana 👑
 
-<!--
-**nancyypeters/nancyypeters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Level 5 Computer Science student at UA92, Manchester
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently studying Databases, Cloud Computing, and AI.
+Building full-stack dashboards and business intelligence tools in my own time.
+Interested in Data Analytics and Business Intelligence.
+
+## Projects
+
+### 🖤 QCC Order Form
+A multi-step customer order form for Queen's Crown Collection, a UK luxury hair brand.
+Built with Next.js, TypeScript, TailwindCSS, Supabase, and PayPal Business integration.
+Features: live price calculator, product configuration flow, and order submission to a live database.
+
+## Skills
+
+SQL · Python · TypeScript · Next.js · TailwindCSS · Supabase · Power Automate · SharePoint
+
+## Get in Touch
+
+LinkedIn: linkedin.com/in/nancy-peter-15738522a
